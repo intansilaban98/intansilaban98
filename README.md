@@ -11,7 +11,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/intanelpridasilaban/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-3b5998?style=flat-square&logo=Twitter&logoColor=white)](http://twitter.com/intansilaban_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/intansilaban98)
-<a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@intansilaban98-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/intansilaban98" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/@intansilaban98-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 <br>
 
